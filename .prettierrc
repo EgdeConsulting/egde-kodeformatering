@@ -1,5 +1,8 @@
 {
   "singleQuote": true,
   "trailingComma": "all",
-  "quoteProps": "preserve"
+  "quoteProps": "preserve",
+  "plugins": ["svelte"],
+
+  "svelteSortOrder": "scripts-markup-styles"
 }
