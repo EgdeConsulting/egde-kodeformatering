@@ -1,30 +1,13 @@
 # Info
 
-Satt opp med TypeScript og Prettier vha.[create-svelte](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+Satt opp med TypeScript og Prettier vha. [create-svelte](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
 Dersom du ønsker å bruke testing verktøy som f.eks. Vitest eller PlayWright kan det enkelt settes opp vha. CLIen til create-svelte
 
 Følgende setup ble brukt i eksempelets [initial commit](b0d7255faaccb6d045bd804d6437e073954a2721):
 
-```sh
-npm create svelte@latest myapp
+![image](https://user-images.githubusercontent.com/43886029/223399008-4b4bce3f-f104-4ea4-a5ea-fac0e49530e9.png)
 
-create-svelte version 3.1.1
-
-┌  Welcome to SvelteKit!
-│
-◇  Which Svelte app template?
-│  Skeleton project
-│
-◇  Add type checking with TypeScript?
-│  Yes, using TypeScript syntax
-│
-◆  Select additional options (use arrow keys/space bar)
-│  ◻ Add ESLint for code linting
-│  ◼ Add Prettier for code formatting
-│  ◻ Add Playwright for browser testing
-│  ◻ Add Vitest for unit testing
-```
 
 <details>
 <summary>Klikk her for mer info om Sveltekit (autogenerert ved setup)</summary>
