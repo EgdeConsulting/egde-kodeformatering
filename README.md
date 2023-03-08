@@ -17,7 +17,6 @@ Se rot-mappa for generelle kodestandarder. Dersom du ønsker kodestandarder for 
 
 ## Oversikt over språk og rammeverk
 
-| Logo                                                            | Språk/Rammeverk                    | Info                                                                                   |
-| --------------------------------------------------------------- | ---------------------------------- | -------------------------------------------------------------------------------------- |
-| ![Sveltekit logo](https://deviconapi.vercel.app/svelte?size=80) | [Sveltekit](./examples/sveltekit/) | Se eksempelprosjektets [README.md](./examples/sveltekit/README.md) for mer informasjon |
-| ![React logo](https://deviconapi.vercel.app/react?size=80)      | [React](./examples/react/)         | -                                                                                      |
+| Logo                                                         | Språk/Rammeverk                    | Info                                                                                   |
+| ------------------------------------------------------------ | ---------------------------------- | -------------------------------------------------------------------------------------- |
+| ![Svelte logo](https://deviconapi.vercel.app/svelte?size=80) | [Sveltekit](./examples/sveltekit/) | Se eksempelprosjektets [README.md](./examples/sveltekit/README.md) for mer informasjon |
