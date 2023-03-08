@@ -8,9 +8,19 @@ Følgende setup ble brukt i eksempelets [initial commit](b0d7255faaccb6d045bd804
 
 ![image](https://user-images.githubusercontent.com/43886029/223399008-4b4bce3f-f104-4ea4-a5ea-fac0e49530e9.png)
 
+# Læringsressurser
+
+| Hva?                            | Hvor?                                               | Hvorfor?                                                                               |
+| ------------------------------- | --------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| Svelte nettside                 | https://svelte.dev/                                 | Generell info om Svelte                                                                |
+| Sveltekit nettside              | https://kit.svelte.dev/                             | Generell info om Sveltekit                                                             |
+| Svelte Tutorial                 | https://svelte.dev/tutorial/basics                  | Interaktive tutorials vha. REPL i browseren. Dette er den enkleste måten å lære Svelte |
+| WIP Svelte + Sveltekit Tutorial | https://learn.svelte.dev/tutorial/welcome-to-svelte | Interaktive Svelte + Sveltekit tutorials                                               |
+| Svelte docs                     | https://svelte.dev/docs                             | Svelte dokumentasjon                                                                   |
+| Sveltekit docs                  | https://kit.svelte.dev/docs/introduction            | Sveltekit dokumentasjon                                                                |
 
 <details>
-<summary>Klikk her for mer info om Sveltekit (autogenerert ved setup)</summary>
+<summary>Klikk her for mer info om Sveltekit (autogenerert av create-svelte)</summary>
 
 # create-svelte
 
