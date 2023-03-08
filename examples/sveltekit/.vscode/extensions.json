@@ -4,23 +4,23 @@
 		"esbenp.prettier-vscode",
 		"formulahendry.auto-complete-tag",
 		"svelte.svelte-vscode",
-		"christian-kohler.path-intellisense",
+		"christian-kohler.path-intellisense"
 
-		// nice-to-have's
-		"mikestead.dotenv",
-		"eamodio.gitlens",
-		"vincaslt.highlight-matching-tag",
-		"wix.vscode-import-cost",
-		"visualstudioexptteam.vscodeintellicode",
-		"visualstudioexptteam.intellicode-api-usage-examples",
-		"zignd.html-css-class-completion",
-		"xabikos.javascriptsnippets",
-		"yzhang.markdown-all-in-one",
-		"bierner.markdown-preview-github-styles",
-		"cardinal90.multi-cursor-case-preserve",
-		"christian-kohler.npm-intellisense",
-		"jock.svg",
-		"shardulm94.trailing-spaces",
-		"ldez.ignore-files"
+		// nice-to-have's (uncomment the lines below if you want to get these recommendations)
+		// "mikestead.dotenv",
+		// "eamodio.gitlens",
+		// "vincaslt.highlight-matching-tag",
+		// "wix.vscode-import-cost",
+		// "visualstudioexptteam.vscodeintellicode",
+		// "visualstudioexptteam.intellicode-api-usage-examples",
+		// "zignd.html-css-class-completion",
+		// "xabikos.javascriptsnippets",
+		// "yzhang.markdown-all-in-one",
+		// "bierner.markdown-preview-github-styles",
+		// "cardinal90.multi-cursor-case-preserve",
+		// "christian-kohler.npm-intellisense",
+		// "jock.svg",
+		// "shardulm94.trailing-spaces",
+		// "ldez.ignore-files"
 	]
 }
